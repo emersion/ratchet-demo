@@ -1,0 +1,17 @@
+{
+	"name": "emersion/ratchet-demo",
+	"description":"A simple Ratchet demo (as an HTTP server).",
+	"keywords":["ratchet","http"],
+	"license":"MIT",
+	"type":"application",
+	"authors":[
+		{
+			"name":"emersion",
+			"homepage":"http://emersion.fr"
+		}
+	],
+	"require": {
+		"cboden/Ratchet": "0.3.*",
+		"guzzle/http": "~3.6"
+	}
+}

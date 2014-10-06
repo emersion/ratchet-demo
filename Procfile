@@ -1,0 +1,1 @@
+web: php bin/server.php -p $PORT
